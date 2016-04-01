@@ -1,2 +1,6 @@
 # go-example-circleci
-Minimal golang example on circleci
+
+## Features
+* `.gitignore` for golang.
+* `.editorconfig` for golang and common files.
+* `circle.yml` for circleci
